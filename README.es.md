@@ -17,7 +17,7 @@
 
 Una vez que hayas terminado de resolver el caso práctico, asegúrate de confirmar tus cambios, haz push a tu repositorio y ve a 4Geeks.com para subir el enlace del repositorio.
 
-## 📝 Instrucciones para construir el modelo de regresion lineal
+## 📝 Instrucciones para construir el modelo de regresion lineal regularizado
 
 ### Datos socio demográficos y de recursos de salud a nivel de condado de EE. UU. (2018-2019)
 
