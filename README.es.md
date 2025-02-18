@@ -1,5 +1,5 @@
 <!-- hide -->
-# Construye un modelo de regresion lineal
+# Construye un modelo de regresión lineal
 <!-- endhide -->
 
 - Comprender un dataset nuevo.
